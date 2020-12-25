@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ihao.me/categories.html</loc>
+    <loc>https://ihao.me/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/p/test-chinese.html</loc>
+    <loc>https://ihao.me/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,112 +18,112 @@
   </url>
   
   <url>
-    <loc>https://ihao.me/post.html</loc>
+    <loc>https://ihao.me/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/categories/test.html</loc>
+    <loc>https://ihao.me/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/categories/%E6%B5%8B%E8%AF%95.html</loc>
+    <loc>https://ihao.me/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/archives.html</loc>
+    <loc>https://ihao.me/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/page.html</loc>
+    <loc>https://ihao.me/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/tags/css.html</loc>
+    <loc>https://ihao.me/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/tags/html.html</loc>
+    <loc>https://ihao.me/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/tags/markdown.html</loc>
+    <loc>https://ihao.me/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/p/markdown-syntax-guide.html</loc>
+    <loc>https://ihao.me/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/categories/syntax.html</loc>
+    <loc>https://ihao.me/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/tags.html</loc>
+    <loc>https://ihao.me/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/tags/themes.html</loc>
+    <loc>https://ihao.me/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/categories/themes.html</loc>
+    <loc>https://ihao.me/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/p/placeholder-text.html</loc>
+    <loc>https://ihao.me/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/tags/tag-with-whitespaces.html</loc>
+    <loc>https://ihao.me/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/categories/test-with-whitespaces.html</loc>
+    <loc>https://ihao.me/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/tags/text.html</loc>
+    <loc>https://ihao.me/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/p/math-typesetting.html</loc>
+    <loc>https://ihao.me/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/tags/emoji.html</loc>
+    <loc>https://ihao.me/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/p/emoji-support.html</loc>
+    <loc>https://ihao.me/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/about.html</loc>
+    <loc>https://ihao.me/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihao.me/search.html</loc>
+    <loc>https://ihao.me/search/</loc>
   </url>
   
 </urlset>

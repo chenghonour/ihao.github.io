@@ -5,22 +5,37 @@
 
 <link rel='canonical' href='https://ihao.me/404.html'>
 
-<link rel="stylesheet" href="./scss/style.min.css"><meta property='og:title' content='404 Page not found'>
+<link rel="stylesheet" href="/scss/style.min.css"><meta property='og:title' content='404 Page not found'>
 <meta property='og:description' content='爱好么，展示个人爱好'>
 <meta property='og:url' content='https://ihao.me/404.html'>
 <meta property='og:site_name' content='iHao me'>
 <meta property='og:type' content='website'><meta property='og:updated_time' content=' 2020-10-09T00:00:00&#43;00:00 '/>
 <meta name="twitter:title" content="404 Page not found">
-<meta name="twitter:description" content="爱好么，展示个人爱好"><link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
-<link rel="manifest" href="./site.webmanifest">
-<link rel="mask-icon" href="./safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+<meta name="twitter:description" content="爱好么，展示个人爱好">
     </head>
     <body class="">
-        <div class="container flex on-phone--column align-items--flex-start extended ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.body.dataset.scheme = 'dark';
+        } else {
+            document.body.dataset.scheme = 'light';
+        }
+    })();
+</script><div class="container flex on-phone--column extended ">
             <aside class="sidebar left-sidebar sticky">
     <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
         <span class="hamburger-box">
@@ -32,14 +47,18 @@
         
             <figure class="site-avatar">
                 
-
-                
                     
-                    <img src="./img/avatar_hu448afca4186a8aced5efc19f8fa992aa_216673_300x300_resize_box_2.png" width="300"
-                        height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                    
+                        
+                        <img src="/img/avatar_hu448afca4186a8aced5efc19f8fa992aa_216673_300x0_resize_box_2.png" width="300"
+                            height="285" class="site-logo" loading="lazy" alt="Avatar">
+                    
                 
 
-                <span class="emoji">❤️</span>
+                
+                    <span class="emoji">❤️</span>
+                
             </figure>
         
         <h1 class="site-name"><a href="https://ihao.me">iHao me</a></h1>
@@ -52,7 +71,7 @@
         
 
         <li >
-            <a href='./'>
+            <a href='/'>
                 
                     <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
@@ -71,7 +90,7 @@
         
 
         <li >
-            <a href='./about'>
+            <a href='/about'>
                 
                     <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
@@ -89,7 +108,7 @@
         
 
         <li >
-            <a href='./archives'>
+            <a href='/archives'>
                 
                     <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
@@ -108,7 +127,7 @@
         
 
         <li >
-            <a href='./search'>
+            <a href='/search'>
                 
                     <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
@@ -123,26 +142,53 @@
             </a>
         </li>
         
+
+        
+            <li id="dark-mode-toggle">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                <span>Dark Mode</span>
+            </li>
+        
     </ol>
 </aside>
+
             <main class="main full-width">
     <div class="not-found-card">
         <h1 class="article-title">Not Found</h1>
         <h2 class="article-subtitle">This page does not exist.</h2>
     </div>
     <footer class="site-footer">
-    <section class="copyright">&copy; 2020 iHao me</section>
+    <section class="copyright">
+        &copy; 
+        
+        2020 iHao me
+    </section>
+    
     <section class="powerby">
         Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
-        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="1.1.0">Stack</a></b> designed by
-        <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="2.0.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
     </section>
 </footer>
 
             </main>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.5/dist/vibrant.min.js"
-    integrity="sha256-5NovOZc4iwiAWTYIFiIM7DxKUXKWvpVEuMEPLzcm5/g=" crossorigin="anonymous"></script><script type="text/javascript" src="./ts/main.js" defer></script>
+    integrity="sha256-5NovOZc4iwiAWTYIFiIM7DxKUXKWvpVEuMEPLzcm5/g=" crossorigin="anonymous"></script><script type="text/javascript" src="/ts/main.js" defer></script>
 <script>
     (function () {
         const customFont = document.createElement('link');
@@ -154,8 +200,6 @@
         document.head.appendChild(customFont);
     }());
 </script>
-<link rel="stylesheet" href="./css/highlight/light.min.css" media="(prefers-color-scheme: light)">
-<link rel="stylesheet" href="./css/highlight/dark.min.css" media="(prefers-color-scheme: dark)">
 
     </body>
 </html>

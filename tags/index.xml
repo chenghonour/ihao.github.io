@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on iHao me</title>
-    <link>https://ihao.me/tags.html</link>
+    <link>https://ihao.me/tags/</link>
     <description>Recent content in Tags on iHao me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ihao.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://ihao.me/tags/css.html</link>
+      <link>https://ihao.me/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ihao.me/tags/css.html</guid>
+      <guid>https://ihao.me/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://ihao.me/tags/html.html</link>
+      <link>https://ihao.me/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ihao.me/tags/html.html</guid>
+      <guid>https://ihao.me/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://ihao.me/tags/markdown.html</link>
+      <link>https://ihao.me/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ihao.me/tags/markdown.html</guid>
+      <guid>https://ihao.me/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://ihao.me/tags/themes.html</link>
+      <link>https://ihao.me/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ihao.me/tags/themes.html</guid>
+      <guid>https://ihao.me/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag with whitespaces</title>
-      <link>https://ihao.me/tags/tag-with-whitespaces.html</link>
+      <link>https://ihao.me/tags/tag-with-whitespaces/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ihao.me/tags/tag-with-whitespaces.html</guid>
+      <guid>https://ihao.me/tags/tag-with-whitespaces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://ihao.me/tags/text.html</link>
+      <link>https://ihao.me/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ihao.me/tags/text.html</guid>
+      <guid>https://ihao.me/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://ihao.me/tags/emoji.html</link>
+      <link>https://ihao.me/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ihao.me/tags/emoji.html</guid>
+      <guid>https://ihao.me/tags/emoji/</guid>
       <description></description>
     </item>
     
